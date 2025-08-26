@@ -8,12 +8,12 @@
 ## Estructura del Repositorio
 
 ### Scripts de videojuegos
-- Incluyen:
+- Las carpetas incluyen:
   - Archivos de código.
   - Videos demostrativos.
 
 ### Scripts de páginas web
-- Incluyen:
+- Las carpetas incluyen:
   - Archivos de código.
   - Videos demostrativos.
 
